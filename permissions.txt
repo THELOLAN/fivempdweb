@@ -1,0 +1,6 @@
+Berechtigungen:
+
+user.create.bolo
+user.create.entry
+user.edit.entry
+user.delete.entry
